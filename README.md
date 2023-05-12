@@ -3,7 +3,7 @@
 ## Road Map
 
 - Aptitude
-- Practice problems
+- Practice problems GFG
 - IIT JEE
 - Reddit(optional)
 - Discord(optional)
